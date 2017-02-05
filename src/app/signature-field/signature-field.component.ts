@@ -5,8 +5,8 @@ import { Student } from './Student';
 
 @Component({
   selector: 'signature-field',
-  templateUrl: 'signature-field.component.html',
-  styleUrls: ['signature-field.component.css'],
+  templateUrl: 'signature-field.component.html'
+
 
   providers: [
     {
